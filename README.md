@@ -21,8 +21,7 @@ The application uses multiple Excel datasets:
 Each file contains structured financial data including:
 
 - Credit ratings (e.g. Moody’s, internal ratings)
-- Risk classification (e.g. flagged / not flagged)
-- Moody-based or qualitative risk indicators
+- Risk classification (flagged / not flagged) is color-coded for visual clarity
 
 #
 
@@ -96,6 +95,21 @@ The dashboard is designed to run in:
 - Google Colab (with ngrok tunneling)
 - Local Python environment
 - Jupyter Notebook (development mode)
+
+#
+
+### 🖥️ Visual Overview
+
+Main Dashboard View
+
+---
+
+Interactive Filtering
+
+
+---
+
+Risk Classification
 
 #
 
