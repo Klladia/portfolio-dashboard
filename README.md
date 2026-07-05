@@ -100,12 +100,14 @@ The dashboard is designed to run in:
 
 ### 🖥️ Visual Overview
 
-Main Dashboard View
+Interactive Filtering
+<br>
+![Filtering](screenshots/Filters.png)
 
 ---
 
-Interactive Filtering
-
+Portfolio Risk Profile Page
+<br>
 
 ---
 
