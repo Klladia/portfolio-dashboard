@@ -100,18 +100,36 @@ The dashboard is designed to run in:
 
 ### 🖥️ Visual Overview
 
-Interactive Filtering
 <br>
+
+Interactive filtering
+
 ![Filtering](screenshots/Filters.png)
 
 ---
 
-Portfolio Risk Profile Page
-<br>
+Portfolio Risk Profile page
+
+![PortfolioRiskProfile](screenshots/PortfolioRiskProfile.png)
+![PortfolioRiskProfile2](screenshots/PortfolioRiskProfile2.png)
+![PortfolioRiskProfile3](screenshots/PortfolioRiskProfile3.png)
+![PortfolioRiskProfile4](screenshots/PortfolioRiskProfile4.png)
+
 
 ---
 
-Risk Classification
+Flagged and Rating Profile page
 
-#
+![RatingProfile](screenshots/RatingProfile.png)
+![RatingProfile2](screenshots/RatingProfile2.png)
+![RatingProfile3](screenshots/RatingProfile3.png)
+![RatingProfile4](screenshots/RatingProfile4.png)
+
+---
+
+Risk Portfolio by Country page
+
+![Exposure](screenshots/Exposure.png)
+![Exposure2](screenshots/Exposure2.png)
+
 
